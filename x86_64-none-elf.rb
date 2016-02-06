@@ -12,7 +12,7 @@ class X8664NoneElf < Formula
     cp_r %w[bin include lib libexec share], "#{prefix}/"
 
     ohai "Copying symlinks..."
-    ln_s "lib" "#{prefix}/lib32"
-    ln_s "lib" "#{prefix}/lib64"
+    ln_s "lib", "#{prefix}/lib32"
+    ln_s "lib", "#{prefix}/lib64"
   end
 end
