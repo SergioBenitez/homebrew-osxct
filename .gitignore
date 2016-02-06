@@ -1,3 +1,6 @@
+# toolchain directory
+toolchains/*
+
 *.gem
 *.rbc
 /.config
