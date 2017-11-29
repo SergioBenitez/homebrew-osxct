@@ -17,9 +17,9 @@ The following is a list of currently available toolchains:
     - GCC: 5.2.0
     - binutils: 2.25.1
 
-  * `aarch64-rpi3-elf`
+  * `aarch64-none-elf`
     - Architecture: ARM AArch64, bare metal, unhosted
     - Object Type: ELF
     - GCC: 7.2.0
     - binutils: 2.29.1
-    - Also Known As: `aarch64-none-elf`
+    - Also Known As: `aarch64-rpi3-elf`
