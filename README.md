@@ -5,7 +5,10 @@ crosscompilers meant to run on OS X. Install this tap using the following
 command:
 
     $ brew tap SergioBenitez/osxct
-    $ brew install toolchain-name
+
+Then install a given `$toolchain` with:
+
+    $ brew install $toolchain
 
 ## Available Toolchains
 
