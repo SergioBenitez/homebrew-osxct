@@ -26,3 +26,10 @@ The following is a list of currently available toolchains:
     - GCC: 7.2.0
     - binutils: 2.29.1
     - Also Known As: `aarch64-rpi3-elf`
+
+  * `x86_64-unknown-linux-gnu`
+    - Architecture: x86-64
+    - OS, libc: Linux >= 3.2, GNU
+    - Object Type: ELF
+    - GCC: 7.2.0
+    - binutils: 2.29.1
