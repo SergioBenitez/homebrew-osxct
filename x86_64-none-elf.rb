@@ -1,4 +1,4 @@
-require "FileUtils"
+require "fileutils"
 
 class X8664NoneElf < Formula
   desc "x86_64 ELF toolchain and cross-compiler for OS X"
